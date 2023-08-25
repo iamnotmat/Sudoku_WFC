@@ -1,0 +1,27 @@
+.sudoku-board {
+    font-family: monospace;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+.sudoku-cell {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+.sudoku-cell.collapsed {
+    background-color: #f0f0f0;
+}
+h1 {
+    text-align: center;
+}
+button {
+    margin: 0 auto;
+    display: block;
+}
+.solveButton {
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
