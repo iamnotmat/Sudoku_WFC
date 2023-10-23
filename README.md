@@ -5,7 +5,7 @@ The solver is implemented in JavaScript and HTML.
 
 ## Try It
 
-You can try it [`here`](http://damngoodfreehost.infinityfreeapp.com/Sudoku/sudoku.html)
+You can try it [`here`](https://teotexe.github.io/Projects/Sudoku_WFC/sudoku.html)
 
 ## The idea behind
 
