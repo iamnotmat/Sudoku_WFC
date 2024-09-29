@@ -15,11 +15,12 @@ In the context of Sudoku, it is used to iteratively collapse possibilities for e
 
 At the beginning each cell has 9 possible states (here's the inspiration from quantum states)
 
-![StartBoard](https://github.com/iamnotmat/Sudoku_WFC/assets/75623519/dc4bbb0c-6f99-496e-af09-7506eb52f66c)
+![StartBoard](https://github.com/user-attachments/assets/aaa09e1c-8e57-408d-9af6-70dfbf726e8d)
+
 
 Everytime the user chooses a number the algorithm automatically collapses all the cells in the collapsed row, column and 3x3 square, updating the possible states for each cell based on the entered numbers.
 
-![AfterCollapse](https://github.com/iamnotmat/Sudoku_WFC/assets/75623519/c8e2390b-31e5-4bcc-a5c5-93b29d73e5fe)
+![AfterCollapse](https://github.com/user-attachments/assets/38266ec1-9c22-4877-b343-aaf70a601127)
 
 (Here you can see how the number 5 was removed from all the collapsed tiles)
 
